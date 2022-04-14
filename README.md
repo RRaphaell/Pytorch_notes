@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RRaphaell/Pytorch_notes/blob/main/notes.ipynb)
+
 ## This repo is for PyTorch notes. <br>
 There are a good variety of basic and intermediate concepts you'll need to know on a daily basis. <br>
 so you can quickly find them, remember how to use them, and so on.
